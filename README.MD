@@ -77,4 +77,4 @@ The keylogger will write all captured keystrokes to a file named `keylog.txt` in
 ## Disclaimer
 This keylogger is provided for <b>educational purposes only</b>. Use it only in environments where you have explicit permission. Misuse of this software can result in legal consequences.
 
-### © 2024 - NEJAN
+### <center> © 2024 - NEJAN </center>
